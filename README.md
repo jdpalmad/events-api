@@ -5,9 +5,13 @@ Es recomendable crear un entorno virtual para instalar las dependencias y ejecut
 ### Requerimientos
 
 Para comenzar, clonamos el repositorio:<br>
-> ```bash git clone https://github.com/jdpalmad/events-api.git ```   <br> <br> 
+> ```bash 
+     git clone https://github.com/jdpalmad/events-api.git 
+     ```   <br> <br> 
 Una vez clonado, nos dirigimos al folder del proyecto:<br>
-> ```bash cd events-api ```   <br> <br>
+> ```shell 
+     cd events-api 
+     ```   <br> <br>
 
 
 Para crear un entorno virtual con la version de Python 3.10.9, ejecute el siguiente comando:<br>
