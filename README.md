@@ -7,9 +7,13 @@ Es recomendable crear un entorno virtual para instalar las dependencias y ejecut
 ### Requerimientos
 
 Para comenzar, clonamos el repositorio:<br>
-> ```console git clone https://github.com/jdpalmad/events-api.git ```   <br> <br> 
+> ```sh
+    git clone https://github.com/jdpalmad/events-api.git 
+    ```   <br> <br> 
 Una vez clonado, nos dirigimos al folder del proyecto:<br>
-> ```console cd events-api ```   <br> 
+> ```console
+    cd events-api 
+    ```   <br> 
 
 
 Para crear un entorno virtual con la version de Python 3.10.9, ejecute el siguiente comando:<br>
@@ -33,13 +37,16 @@ Finalmente cree una base de datos, esto se hace con el siguiente comando:<br>
 > ```CREATE DATABASE database_name;```   <br>
 
 ### Variables de entorno
-Para que la API funcione correctamente, debe ingresar en el archivo ```events-api/config/db.py``` y configurar las variables de entorno. <br>
+Para que la API funcione correctamente, debe ingresar en el folder ```events-api/``` y configurar las variables de entorno. <br>
+Para esto creamos un archivo ```.env``` y agregamos las siguientes variables de entorno: <br>
 Estas son: <br>
-> - user: usuario de la base de datos <br>
-> - sql_password: contraseña de la base de datos <br>
-> - database: nombre de la base de datos (database_name en este tutorial)<br>
-> - host: host en el que quiere alojar el servidor sql<br>
-> - port: puerto de la base de datos, por ejemplo '3306' <br>
+```sh
+USER = "USER"
+SQL_PASSWORD = "SQL_PASSWORD" 
+DATABASE = "DATABASE" 
+HOST = "HOST" 
+PORT = "PORT"  
+```
 
 ### Ejecutar el proyecto
 De nuevo en el folder ```events-api``` ejecute el siguiente comando para iniciar el servidor:<br>
