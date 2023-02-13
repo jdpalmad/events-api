@@ -217,7 +217,7 @@
         "descripcion": "Concurso para premiar a la mejor historia"
     },
     {
-        "nombre": "Reunión de padres de familia colegio Los Estudiantes",
+        "nombre": "Reunión de padres de familia del Colegio",
         "tipo": "reunion",
         "status": "pendiente",
         "fecha": "2023-05-15",
@@ -406,7 +406,7 @@
         "descripcion": "Taller para aprender nuevas técnicas de arte"
     },
     {
-        "nombre": "Capacitación en marketing digital",
+        "nombre": "Capacitación en marketing digital virtual",
         "tipo": "capacitacion",
         "status": "revisado",
         "fecha": "2023-03-10",
@@ -560,7 +560,7 @@
         "descripcion": "Un festival de arte con exhibiciones de arte y conferencias sobre arte y cultura"
     },
     {
-        "nombre": "Reunión de negocios",
+        "nombre": "Reunión de negocios internacionales",
         "tipo": "reunion",
         "status": "revisado",
         "fecha": "2023-03-01",
@@ -630,7 +630,7 @@
         "descripcion": "Reunión de inversionistas para discutir nuevas oportunidades de inversión"
     },
     {
-        "nombre": "Taller de cocina",
+        "nombre": "Taller de cocina saludable",
         "tipo": "taller",
         "status": "revisado",
         "fecha": "2024-01-15",
@@ -791,7 +791,7 @@
         "descripcion": "Reunión de equipo de ventas para discutir estrategias y metas comerciales"
     },
     {
-        "nombre": "Taller de jardinería",
+        "nombre": "Taller de jardinería y plantas",
         "tipo": "taller",
         "status": "revisado",
         "fecha": "2025-12-15",
@@ -805,28 +805,28 @@
         "descripcion": "Capacitación en marketing digital para mejorar habilidades en promoción en línea"
     },
     {
-        "nombre": "Feria de moda",
+        "nombre": "Feria de moda y belleza",
         "tipo": "feria",
         "status": "revisado",
         "fecha": "2026-02-05",
         "descripcion": "Feria de moda para mostrar las últimas tendencias y productos en el mercado"
     },
     {
-        "nombre": "Concurso de canto",
+        "nombre": "Concurso de canto y baile",
         "tipo": "concurso",
         "status": "pendiente",
         "fecha": "2026-03-01",
         "descripcion": "Concurso de canto para encontrar el mejor cantante"
     },
     {
-        "nombre": "Reunión de equipo de finanzas",
+        "nombre": "Reunión de equipo de finanzas y comercio",
         "tipo": "reunion",
         "status": "revisado",
         "fecha": "2026-04-15",
         "descripcion": "Reunión de equipo de finanzas para discutir estrategias y metas financieras"
     },
     {
-        "nombre": "Taller de artesanía",
+        "nombre": "Taller de artesanías y manualidades",
         "tipo": "taller",
         "status": "pendiente",
         "fecha": "2026-05-10",

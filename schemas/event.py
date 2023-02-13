@@ -2,7 +2,6 @@ from pydantic import BaseModel, Field, validator
 from typing import Optional, Literal
 from datetime import date
 
-
 class Event(BaseModel):
     id: int = Field(default=None, hidden=True)
     nombre: str = Field(max_length=50)
