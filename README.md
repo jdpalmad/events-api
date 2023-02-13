@@ -2,7 +2,7 @@
 *El crud es realizado utilizando FastAPI y SQL*
 Es recomendable crear un entorno virtual para instalar las dependencias y ejecutar el proyecto, de este modo se evita que las dependencias se instalen en el entorno global de python y asi evitar conflictos con otras versiones de las mismas. <br>
 
-##### *Los comandos etiquetados con ```console``` son validos para bash, zsh, etc...*
+##### *Los comandos etiquetados con ```console``` son validos para bash, zsh, etc... ignore la etiqueta ```console```*
 
 ### Requerimientos
 
