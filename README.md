@@ -9,7 +9,7 @@ Es recomendable crear un entorno virtual para instalar las dependencias y ejecut
 Para comenzar, clonamos el repositorio:<br>
 > ```console git clone https://github.com/jdpalmad/events-api.git ```   <br> <br> 
 Una vez clonado, nos dirigimos al folder del proyecto:<br>
-> ```console cd events-api ```   <br> <br>> 
+> ```console cd events-api ```   <br> 
 
 
 Para crear un entorno virtual con la version de Python 3.10.9, ejecute el siguiente comando:<br>
@@ -18,7 +18,7 @@ En este caso lo hacemos con conda 22.0.9, pero puede usar virtualenv o venv. <br
 Una vez creado el entorno virtual, active el mismo con el siguiente comando:<br>
 > ```console conda activate envname ```   <br> <br>
 Ahora instale las dependencias del proyecto, para ello ejecute el siguiente comando:<br>
-> ```console pip install -r requirements.txt ```   <br> <br>
+> ```console pip install -r requirements.txt ```   <br> 
 
 ### Base de datos
 Dado que la API utiliza una base de datos SQL, debe crear una base de datos en su servidor local. <br>
