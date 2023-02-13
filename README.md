@@ -2,21 +2,23 @@
 *El crud es realizado utilizando FastAPI y SQL*
 Es recomendable crear un entorno virtual para instalar las dependencias y ejecutar el proyecto, de este modo se evita que las dependencias se instalen en el entorno global de python y asi evitar conflictos con otras versiones de las mismas. <br>
 
+##### *Los comandos etiquetados con ```console``` son validos para bash, zsh, etc...*
+
 ### Requerimientos
 
 Para comenzar, clonamos el repositorio:<br>
-> ```bash git clone https://github.com/jdpalmad/events-api.git ```   <br> <br> 
+> ```console git clone https://github.com/jdpalmad/events-api.git ```   <br> <br> 
 Una vez clonado, nos dirigimos al folder del proyecto:<br>
-> ```bash cd events-api ```   <br> <br>
+> ```console cd events-api ```   <br> <br>
 
 
 Para crear un entorno virtual con la version de Python 3.10.9, ejecute el siguiente comando:<br>
-> ```bash conda create -n envname python=3.10.9 ```   <br> <br>
+> ```console conda create -n envname python=3.10.9 ```   <br> <br>
 En este caso lo hacemos con conda 22.0.9, pero puede usar virtualenv o venv. <br>
 Una vez creado el entorno virtual, active el mismo con el siguiente comando:<br>
-> ```bash conda activate envname ```   <br> <br>
+> ```console conda activate envname ```   <br> <br>
 Ahora instale las dependencias del proyecto, para ello ejecute el siguiente comando:<br>
-> ```bash pip install -r requirements.txt ```   <br> <br>
+> ```console pip install -r requirements.txt ```   <br> <br>
 
 ### Base de datos
 Dado que la API utiliza una base de datos SQL, debe crear una base de datos en su servidor local. <br>
@@ -41,7 +43,7 @@ Estas son: <br>
 
 ### Ejecutar el proyecto
 De nuevo en el folder ```events-api``` ejecute el siguiente comando para iniciar el servidor:<br>
-> ```bash uvicorn main:app --reload ```   <br> <br>
+> ```console uvicorn main:app --reload ```   <br> <br>
 De esta manera, el servidor se iniciara en la direccion: ```http://localhost:8000/``` <br>
 
 ## **Puede ver la documentacion de la API en la siguiente direccion:** <br> 
@@ -49,7 +51,7 @@ De esta manera, el servidor se iniciara en la direccion: ```http://localhost:800
 
 ### Cargando los datos de prueba
 Para cargar los datos de prueba, ejecute el siguiente comando, en el folder ```events-api/utilities```: <br>
-> ```bash python loadstatic.py ```   <br> 
+> ```console python loadstatic.py ```   <br> 
 
 # Interactuando con la API
 Una vez que la API esta corriendo, usamos el endpont ```/``` para ingresar a la documentacion de la API, donde encontrara la informacion correspondiente a los endpoints. <br>
