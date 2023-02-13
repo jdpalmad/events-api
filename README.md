@@ -38,7 +38,7 @@ De nuevo en el folder ```events-api``` ejecute el siguiente comando para iniciar
 > ```bash uvicorn main:app --reload ```   <br> <br>
 De esta manera, el servidor se iniciara en la direccion: ```http://localhost:8000/``` <br>
 
-## * Puede ver la documentacion de la API en la siguiente direccion:* <br> 
+## **Puede ver la documentacion de la API en la siguiente direccion:** <br> 
 ```http://localhost:8000/``` o ```http://localhost:8000/redoc``` <br>
 
 ### Cargando los datos de prueba
