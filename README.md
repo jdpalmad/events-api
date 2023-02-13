@@ -5,9 +5,7 @@ Es recomendable crear un entorno virtual para instalar las dependencias y ejecut
 ### Requerimientos
 
 Para comenzar, clonamos el repositorio:<br>
-> ```bash 
-     git clone https://github.com/jdpalmad/events-api.git 
-     ```   <br> <br> 
+> ```console git clone https://github.com/jdpalmad/events-api.git ```   <br> <br> 
 Una vez clonado, nos dirigimos al folder del proyecto:<br>
 > ```shell 
      cd events-api 
