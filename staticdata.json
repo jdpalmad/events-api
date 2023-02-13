@@ -1,0 +1,842 @@
+[
+    {
+        "nombre": "Reunión de líderes comunitarios",
+        "tipo": "reunion",
+        "status": "pendiente",
+        "fecha": "2025-09-12",
+        "descripcion": "Reunión de líderes comunitarios para discutir temas importantes y tomar acciones en beneficripción"
+    },
+    {
+        "nombre": "Taller de diseño gráfico",
+        "tipo": "taller",
+        "status": "revisado",
+        "fecha": "2026-07-22",
+        "descripcion": "Taller de diseño gráfico para mejorar habilidades en creación y edición de imágenes y gráficos"
+    },
+    {
+        "nombre": "Capacitación en liderazgo",
+        "tipo": "capacitacion",
+        "status": "pendiente",
+        "fecha": "2026-08-19",
+        "descripcion": "Capacitación en liderazgo para desarrollar habilidades y conocimientos en dirección y motivación de equipos"
+    },
+    {
+        "nombre": "Feria de tecnología",
+        "tipo": "feria",
+        "status": "revisado",
+        "fecha": "2026-09-01",
+        "descripcion": "Feria de tecnología para exhibir y demostrar los últimos avances en electrónica y tecnología de la información"
+    },
+    {
+        "nombre": "Concurso de baile",
+        "tipo": "concurso",
+        "status": "pendiente",
+        "fecha": "2026-10-15",
+        "descripcion": "Concurso de baile para encontrar el mejor bailarín y coreografía"
+    },
+    {
+        "nombre": "Reunión de equipo de recursos humanos",
+        "tipo": "reunion",
+        "status": "revisado",
+        "fecha": "2026-11-12",
+        "descripcion": "Reunión de equipo de recursos humanos para discutir políticas y prácticas de selección y retención de empleados"
+    },
+    {
+        "nombre": "Taller de fotografía",
+        "tipo": "taller",
+        "status": "pendiente",
+        "fecha": "2027-01-01",
+        "descripcion": "Taller de fotografía para aprender técnicas y conceptos básicos de la fotografía y mejorar habilidades"
+    },
+    {
+        "nombre": "FutureThink 2023",
+        "tipo": "conferencia",
+        "status": "revisado",
+        "fecha": "2023-06-12",
+        "descripcion": "Un evento de dos días que aborda los avances y desafíos del futuro"
+    },
+    {
+        "nombre": "Campeonato Mundial de Futbol 2026",
+        "tipo": "evento deportivo",
+        "status": "revisado",
+        "fecha": "2026-07-15",
+        "descripcion": "La competición más importante de futbol, que se realiza cada cuatro años"
+    },
+    {
+        "nombre": "Seminario de tecnología avanzada",
+        "tipo": "seminario",
+        "status": "revisado",
+        "fecha": "2023-09-20",
+        "descripcion": "Un día de conferencias y discusiones sobre las últimas tendencias en tecnología"
+    },
+    {
+        "nombre": "Concierto de la banda X",
+        "tipo": "concierto",
+        "status": "revisado",
+        "fecha": "2023-11-10",
+        "descripcion": "Un concierto en vivo con la banda X en el estadio Y"
+    },
+    {
+        "nombre": "Mitin político del partido Z",
+        "tipo": "mitin politico",
+        "status": "revisado",
+        "fecha": "2023-12-15",
+        "descripcion": "Un mitin político del partido Z en la ciudad W"
+    },
+    {
+        "nombre": "Encuentro religioso anual",
+        "tipo": "encuentro religioso",
+        "status": "revisado",
+        "fecha": "2023-08-01",
+        "descripcion": "Un encuentro religioso anual en la iglesia X"
+    },
+    {
+        "nombre": "Festival de música indie",
+        "tipo": "concierto",
+        "status": "revisado",
+        "fecha": "2023-06-20",
+        "descripcion": "Un festival de tres días de música indie en la ciudad Y"
+    },
+    {
+        "nombre": "Conferencia sobre cambio climático",
+        "tipo": "conferencia",
+        "status": "revisado",
+        "fecha": "2023-05-10",
+        "descripcion": "Una conferencia de un día sobre el cambio climático y los retos y desafios que este trae para el futuro"
+    },
+    {
+        "nombre": "Torneo de tenis Masters",
+        "tipo": "evento deportivo",
+        "status": "revisado",
+        "fecha": "2023-08-01",
+        "descripcion": "Un torneo de tenis de alto nivel con los mejores jugadores del mundo"
+    },
+    {
+        "nombre": "Congreso de biotecnología",
+        "tipo": "conferencia",
+        "status": "revisado",
+        "fecha": "2023-10-12",
+        "descripcion": "Un congreso de tres días sobre las últimas investigaciones y avances en biotecnología"
+    },
+    {
+        "nombre": "Maratón de la ciudad",
+        "tipo": "evento deportivo",
+        "status": "revisado",
+        "fecha": "2023-11-01",
+        "descripcion": "Una maratón anual en la ciudad X"
+    },
+    {
+        "nombre": "Feria tecnológica",
+        "tipo": "conferencia",
+        "status": "revisado",
+        "fecha": "2023-12-01",
+        "descripcion": "Una feria de tres días de exhibición y demostración de tecnologías avanzadas"
+    },
+    {
+        "nombre": "Concierto de música clásica",
+        "tipo": "concierto",
+        "status": "revisado",
+        "fecha": "2023-07-15",
+        "descripcion": "Un concierto de música clásica en el teatro X"
+    },
+    {
+        "nombre": "Simposio de inteligencia artificial",
+        "tipo": "seminario",
+        "status": "revisado",
+        "fecha": "2023-09-01",
+        "descripcion": "Un simposio de un día sobre inteligencia artificial y sus aplicaciones"
+    },
+    {
+        "nombre": "Festival de cine",
+        "tipo": "conferencia",
+        "status": "revisado",
+        "fecha": "2023-08-20",
+        "descripcion": "Un festival de cine de una semana con proyecciones, conferencias y premios"
+    },
+    {
+        "nombre": "Reunión de líderes empresariales",
+        "tipo": "conferencia",
+        "status": "revisado",
+        "fecha": "2023-02-20",
+        "descripcion": "Un encuentro de dos días con líderes empresariales de todo el mundo para discutir tendencias y oportunidades en el mercado"
+    },
+    {
+        "nombre": "Encuentro de startups",
+        "tipo": "seminario",
+        "status": "revisado",
+        "fecha": "2023-03-01",
+        "descripcion": "Un encuentro de un día con startups para discutir innovación y colaboración"
+    },
+    {
+        "nombre": "Festival de arte callejero",
+        "tipo": "concierto",
+        "status": "revisado",
+        "fecha": "2023-04-01",
+        "descripcion": "Un festival de arte callejero en la ciudad X con actuaciones en vivo y exhibiciones"
+    },
+    {
+        "nombre": "Concurso de canto",
+        "tipo": "concurso",
+        "status": "pendiente",
+        "fecha": "2023-04-15",
+        "descripcion": "Concurso para premiar a la mejor voz"
+    },
+    {
+        "nombre": "Reunión de voluntariado VOLUNTARIOS",
+        "tipo": "reunion",
+        "status": "revisado",
+        "fecha": "2023-04-20",
+        "descripcion": "Reunión de voluntariado para discutir nuevos proyectos"
+    },
+    {
+        "nombre": "Taller de baile contemporaneo",
+        "tipo": "taller",
+        "status": "pendiente",
+        "fecha": "2023-04-25",
+        "descripcion": "Taller para aprender nuevas técnicas de baile"
+    },
+    {
+        "nombre": "Capacitación en finanzas personales",
+        "tipo": "capacitacion",
+        "status": "revisado",
+        "fecha": "2023-04-30",
+        "descripcion": "Capacitación para aprender sobre finanzas personales"
+    },
+    {
+        "nombre": "Feria de automóviles usados",
+        "tipo": "feria",
+        "status": "pendiente",
+        "fecha": "2023-05-05",
+        "descripcion": "Feria para ver los últimos modelos de automóviles"
+    },
+    {
+        "nombre": "Concurso de cuentos de terror",
+        "tipo": "concurso",
+        "status": "revisado",
+        "fecha": "2023-05-10",
+        "descripcion": "Concurso para premiar a la mejor historia"
+    },
+    {
+        "nombre": "Reunión de padres de familia colegio Los Estudiantes",
+        "tipo": "reunion",
+        "status": "pendiente",
+        "fecha": "2023-05-15",
+        "descripcion": "Reunión de padres de familia para discutir temas importantes"
+    },
+    {
+        "nombre": "Taller de cocina India",
+        "tipo": "taller",
+        "status": "revisado",
+        "fecha": "2023-05-20",
+        "descripcion": "Taller para aprender nuevas recetas de cocina"
+    },
+    {
+        "nombre": "Capacitación en programación en Golang",
+        "tipo": "capacitacion",
+        "status": "pendiente",
+        "fecha": "2023-05-25",
+        "descripcion": "Capacitación para aprender programación y desarrollo de software"
+    },
+    {
+        "nombre": "Reunión de científicos",
+        "tipo": "conferencia",
+        "status": "revisado",
+        "fecha": "2023-05-01",
+        "descripcion": "Un encuentro de tres días con científicos de todo el mundo para discutir investigaciones y avances en diferentes áreas"
+    },
+    {
+        "nombre": "Campeonato de surf",
+        "tipo": "evento deportivo",
+        "status": "revisado",
+        "fecha": "2023-06-01",
+        "descripcion": "Un campeonato anual de surf en la playa X"
+    },
+    {
+        "nombre": "Festival de comida",
+        "tipo": "concierto",
+        "status": "revisado",
+        "fecha": "2023-07-01",
+        "descripcion": "Un festival de comida de tres días con comida de todo el mundo y actuaciones en vivo"
+    },
+    {
+        "nombre": "Encuentro de arquitectos",
+        "tipo": "seminario",
+        "status": "revisado",
+        "fecha": "2023-08-01",
+        "descripcion": "Un encuentro de un día con arquitectos para discutir tendencias y tecnologías en arquitectura"
+    },
+    {
+        "nombre": "Reunión de inversionistas",
+        "tipo": "conferencia",
+        "status": "pendiente",
+        "fecha": "2023-09-01",
+        "descripcion": "Un encuentro de dos días con inversionistas para discutir oportunidades de inversión"
+    },
+    {
+        "nombre": "Festival de cine",
+        "tipo": "concierto",
+        "status": "revisado",
+        "fecha": "2023-10-01",
+        "descripcion": "Un festival de cine de una semana con películas de todo el mundo y premios"
+    },
+    {
+        "nombre": "Reunión de ingenieros",
+        "tipo": "seminario",
+        "status": "pendiente",
+        "fecha": "2023-11-01",
+        "descripcion": "Un encuentro de un día con ingenieros para discutir tecnologías y avances en el campo de la ingeniería"
+    },
+    {
+        "nombre": "Campeonato de atletismo",
+        "tipo": "evento deportivo",
+        "status": "revisado",
+        "fecha": "2023-12-01",
+        "descripcion": "Un campeonato anual de atletismo en la ciudad X con competencias en diferentes disciplinas"
+    },
+    {
+        "nombre": "Festival de música",
+        "tipo": "concierto",
+        "status": "pendiente",
+        "fecha": "2024-01-01",
+        "descripcion": "Un festival de música de tres días con actuaciones en vivo y música para todos los gustos"
+    },
+    {
+        "nombre": "Reunión de líderes comunitarios",
+        "tipo": "conferencia",
+        "status": "revisado",
+        "fecha": "2024-02-01",
+        "descripcion": "Un encuentro de dos días con líderes comunitarios para discutir temas importantes y desafíos en la comunidad"
+    },
+    {
+        "nombre": "Campeonato de artes marciales",
+        "tipo": "evento deportivo",
+        "status": "pendiente",
+        "fecha": "2024-03-01",
+        "descripcion": "Un campeonato anual de artes marciales en la ciudad X con competencias en diferentes disciplinas"
+    },
+    {
+        "nombre": "Encuentro de profesores",
+        "tipo": "seminario",
+        "status": "revisado",
+        "fecha": "2024-04-01",
+        "descripcion": "Un encuentro de un día con profesores para discutir tendencias y mejores prácticas en la educación"
+    },
+    {
+        "nombre": "Festival de Rock y Empanadas",
+        "tipo": "concierto",
+        "status": "pendiente",
+        "fecha": "2024-05-01",
+        "descripcion": "Un festival de comedia de tres días con comedias en vivo y competiciones"
+    },
+    {
+        "nombre": "Reunión de grupo de estudios",
+        "tipo": "reunion",
+        "status": "pendiente",
+        "fecha": "2027-02-10",
+        "descripcion": "Reunión de grupo de estudios para discutir progreso y planificar futuros proyectos"
+    },
+    {
+        "nombre": "Taller de programación",
+        "tipo": "taller",
+        "status": "revisado",
+        "fecha": "2027-03-20",
+        "descripcion": "Taller de programación para aprender lenguajes de programación y desarrollar habilidades de codificación"
+    },
+    {
+        "nombre": "Capacitación en inteligencia artificial",
+        "tipo": "capacitacion",
+        "status": "pendiente",
+        "fecha": "2027-04-15",
+        "descripcion": "Capacitación en inteligencia artificial para aprender sobre teorías, algoritmos y aplicaciones de IA"
+    },
+    {
+        "nombre": "Campeonato de natación",
+        "tipo": "evento deportivo",
+        "status": "pendiente",
+        "fecha": "2024-06-01",
+        "descripcion": "Un campeonato anual de natación en la ciudad X con competencias en diferentes disciplinas"
+    },
+    {
+        "nombre": "Festival de Salsa y Arte",
+        "tipo": "concierto",
+        "status": "revisado",
+        "fecha": "2024-07-01",
+        "descripcion": "Un festival de arte de tres días con exhibiciones de arte y arte en vivo"
+    },
+    {
+        "nombre": "Reunión de abogados",
+        "tipo": "seminario",
+        "status": "pendiente",
+        "fecha": "2024-08-01",
+        "descripcion": "Un encuentro de dos días con abogados para discutir leyes y regulaciones actuales y futuras"
+    },
+    {
+        "nombre": "Campeonato de boxeo",
+        "tipo": "evento deportivo",
+        "status": "revisado",
+        "fecha": "2024-09-01",
+        "descripcion": "Un campeonato anual de boxeo en la ciudad X con competencias y partidos de boxeo"
+    },
+    {
+        "nombre": "Festival de danza",
+        "tipo": "concierto",
+        "status": "pendiente",
+        "fecha": "2024-10-01",
+        "descripcion": "Un festival de danza de tres días con actuaciones en vivo y competiciones de danza"
+    },
+    {
+        "nombre": "Reunión de empresarios",
+        "tipo": "conferencia",
+        "status": "revisado",
+        "fecha": "2024-11-01",
+        "descripcion": "Un encuentro de dos días con empresarios para discutir oportunidades de negocios y tendencias en el mercado"
+    },
+    {
+        "nombre": "Reunión de negocios",
+        "tipo": "reunion",
+        "status": "revisado",
+        "fecha": "2023-03-01",
+        "descripcion": "Reunión de negocios para discutir nuevos proyectos"
+    },
+    {
+        "nombre": "Taller de arte Japones",
+        "tipo": "taller",
+        "status": "pendiente",
+        "fecha": "2023-03-05",
+        "descripcion": "Taller para aprender nuevas técnicas de arte"
+    },
+    {
+        "nombre": "Capacitación en marketing digital",
+        "tipo": "capacitacion",
+        "status": "revisado",
+        "fecha": "2023-03-10",
+        "descripcion": "Capacitación para aprender sobre marketing digital"
+    },
+    {
+        "nombre": "Feria de tecnología y E-commerce",
+        "tipo": "feria",
+        "status": "pendiente",
+        "fecha": "2023-03-15",
+        "descripcion": "Feria para ver las últimas tecnologías en el mercado"
+    },
+    {
+        "nombre": "Concurso de diseño gráfico para aficionados",
+        "tipo": "concurso",
+        "status": "revisado",
+        "fecha": "2023-03-20",
+        "descripcion": "Concurso para premiar al mejor diseño gráfico"
+    },
+    {
+        "nombre": "Reunión de equipo nuevas juventudes",
+        "tipo": "reunion",
+        "status": "pendiente",
+        "fecha": "2023-03-25",
+        "descripcion": "Reunión de equipo para discutir el progreso del proyecto"
+    },
+    {
+        "nombre": "Taller de fotografía para jovenes",
+        "tipo": "taller",
+        "status": "revisado",
+        "fecha": "2023-03-30",
+        "descripcion": "Taller para aprender sobre fotografía y mejorar tus habilidades"
+    },
+    {
+        "nombre": "Capacitación en liderazgo para jovenes",
+        "tipo": "capacitacion",
+        "status": "pendiente",
+        "fecha": "2023-04-05",
+        "descripcion": "Capacitación para aprender sobre liderazgo y mejorar tus habilidades"
+    },
+    {
+        "nombre": "Campeonato de golf",
+        "tipo": "evento deportivo",
+        "status": "pendiente",
+        "fecha": "2024-12-01",
+        "descripcion": "Un campeonato anual de golf en la ciudad X con competencias en diferentes disciplinas de golf"
+    },
+    {
+        "nombre": "Seminario de desarrollo sostenible",
+        "tipo": "seminario",
+        "status": "pendiente",
+        "fecha": "2025-02-01",
+        "descripcion": "Un encuentro de dos días para discutir la importancia y estrategias para un desarrollo sostenible en el futuro"
+    },
+    {
+        "nombre": "Campeonato de béisbol",
+        "tipo": "evento deportivo",
+        "status": "revisado",
+        "fecha": "2025-03-01",
+        "descripcion": "Un campeonato anual de béisbol en la ciudad X con competencias y partidos de béisbol"
+    },
+    {
+        "nombre": "Festival de comida y musica",
+        "tipo": "concierto",
+        "status": "pendiente",
+        "fecha": "2025-04-01",
+        "descripcion": "Un festival de comida de tres días con exhibiciones de comida y comida en vivo"
+    },
+    {
+        "nombre": "Reunión de agricultores",
+        "tipo": "conferencia",
+        "status": "revisado",
+        "fecha": "2025-05-01",
+        "descripcion": "Un encuentro de dos días con agricultores para discutir innovaciones y tendencias en la industria agrícola"
+    },
+    {
+        "nombre": "Campeonato de voleibol",
+        "tipo": "evento deportivo",
+        "status": "pendiente",
+        "fecha": "2025-06-01",
+        "descripcion": "Un campeonato anual de voleibol en la ciudad X con competencias y partidos de voleibol"
+    },
+    {
+        "nombre": "Festival de Grandes Discos de la Musica",
+        "tipo": "concierto",
+        "status": "revisado",
+        "fecha": "2025-07-01",
+        "descripcion": "Un festival de cine de tres días con proyecciones de películas y premios de cine"
+    },
+    {
+        "nombre": "Reunión de médicos",
+        "tipo": "seminario",
+        "status": "pendiente",
+        "fecha": "2025-08-01",
+        "descripcion": "Un encuentro de dos días con médicos para discutir innovaciones y tendencias en la industria médica"
+    },
+    {
+        "nombre": "Festival de música contemporanea",
+        "tipo": "concierto",
+        "status": "pendiente",
+        "fecha": "2025-10-01",
+        "descripcion": "Un festival de música de tres días con actuaciones en vivo y música en vivo"
+    },
+    {
+        "nombre": "Conferencia sobre tecnología",
+        "tipo": "seminario",
+        "status": "pendiente",
+        "fecha": "2024-06-12",
+        "descripcion": "Una conferencia para discutir los últimos avances y tendencias en tecnología"
+    },
+    {
+        "nombre": "Encuentro religioso",
+        "tipo": "encuentro religioso",
+        "status": "revisado",
+        "fecha": "2024-09-01",
+        "descripcion": "Un encuentro para reunir a la comunidad religiosa y discutir temas importantes"
+    },
+    {
+        "nombre": "Concierto de rock",
+        "tipo": "concierto",
+        "status": "pendiente",
+        "fecha": "2024-10-15",
+        "descripcion": "Un concierto de rock en vivo con algunos de los mejores artistas del género"
+    },
+    {
+        "nombre": "Mitin político",
+        "tipo": "mitin politico",
+        "status": "revisado",
+        "fecha": "2025-01-10",
+        "descripcion": "Un mitin político para discutir las políticas y plataformas de un partido político"
+    },
+    {
+        "nombre": "Conferencia de negocios",
+        "tipo": "seminario",
+        "status": "pendiente",
+        "fecha": "2025-03-01",
+        "descripcion": "Una conferencia de negocios para discutir estrategias y tendencias en el mundo de los negocios"
+    },
+    {
+        "nombre": "Evento deportivo de verano",
+        "tipo": "evento deportivo",
+        "status": "revisado",
+        "fecha": "2025-07-01",
+        "descripcion": "Un evento deportivo de verano con competiciones de atletismo y natación"
+    },
+    {
+        "nombre": "Festival de arte",
+        "tipo": "seminario",
+        "status": "pendiente",
+        "fecha": "2024-11-01",
+        "descripcion": "Un festival de arte con exhibiciones de arte y conferencias sobre arte y cultura"
+    },
+    {
+        "nombre": "Reunión de negocios",
+        "tipo": "reunion",
+        "status": "revisado",
+        "fecha": "2023-03-01",
+        "descripcion": "Reunión de negocios para discutir estrategias de marketing"
+    },
+    {
+        "nombre": "Taller de programación",
+        "tipo": "taller",
+        "status": "pendiente",
+        "fecha": "2023-04-12",
+        "descripcion": "Taller de programación para desarrolladores principiantes"
+    },
+    {
+        "nombre": "Capacitación en seguridad informática",
+        "tipo": "capacitacion",
+        "status": "revisado",
+        "fecha": "2023-05-15",
+        "descripcion": "Capacitación para mejorar la seguridad en el uso de la tecnología"
+    },
+    {
+        "nombre": "Feria de tecnología",
+        "tipo": "feria",
+        "status": "pendiente",
+        "fecha": "2023-06-20",
+        "descripcion": "Feria de tecnología para mostrar las últimas innovaciones en el mercado"
+    },
+    {
+        "nombre": "Concurso de diseño gráfico",
+        "tipo": "concurso",
+        "status": "revisado",
+        "fecha": "2023-07-15",
+        "descripcion": "Concurso de diseño gráfico para encontrar el mejor diseñador"
+    },
+    {
+        "nombre": "Reunión de equipo",
+        "tipo": "reunion",
+        "status": "pendiente",
+        "fecha": "2023-08-10",
+        "descripcion": "Reunión de equipo para discutir los objetivos y metas del proyecto"
+    },
+    {
+        "nombre": "Taller de diseño web",
+        "tipo": "taller",
+        "status": "revisado",
+        "fecha": "2023-09-05",
+        "descripcion": "Taller de diseño web para aprender a crear páginas web atractivas"
+    },
+    {
+        "nombre": "Capacitación en inteligencia artificial",
+        "tipo": "capacitacion",
+        "status": "pendiente",
+        "fecha": "2023-10-01",
+        "descripcion": "Capacitación para aprender sobre la aplicación de la inteligencia artificial en diferentes industrias"
+    },
+    {
+        "nombre": "Concurso de fotografía",
+        "tipo": "concurso",
+        "status": "revisado",
+        "fecha": "2023-11-15",
+        "descripcion": "Concurso de fotografía para encontrar el mejor fotógrafo"
+    },
+    {
+        "nombre": "Reunión de inversionistas",
+        "tipo": "reunion",
+        "status": "pendiente",
+        "fecha": "2023-12-05",
+        "descripcion": "Reunión de inversionistas para discutir nuevas oportunidades de inversión"
+    },
+    {
+        "nombre": "Taller de cocina",
+        "tipo": "taller",
+        "status": "revisado",
+        "fecha": "2024-01-15",
+        "descripcion": "Taller de cocina para aprender a cocinar diferentes platos"
+    },
+    {
+        "nombre": "Capacitación en gestión de proyectos",
+        "tipo": "capacitacion",
+        "status": "pendiente",
+        "fecha": "2024-02-10",
+        "descripcion": "Capacitación para aprender técnicas efectivas de gestión de proyectos"
+    },
+    {
+        "nombre": "Feria de automóviles",
+        "tipo": "feria",
+        "status": "revisado",
+        "fecha": "2024-03-01",
+        "descripcion": "Feria de automóviles para mostrar los últimos modelos en el mercado"
+    },
+    {
+        "nombre": "Concurso de arte digital",
+        "tipo": "concurso",
+        "status": "pendiente",
+        "fecha": "2024-04-12",
+        "descripcion": "Concurso de arte digital para encontrar el mejor artista"
+    },
+    {
+        "nombre": "Reunión de equipo de investigación",
+        "tipo": "reunion",
+        "status": "revisado",
+        "fecha": "2024-05-15",
+        "descripcion": "Reunión de equipo de investigación para discutir los avances y desafíos en el proyecto"
+    },
+    {
+        "nombre": "Taller de diseño de interiores",
+        "tipo": "taller",
+        "status": "pendiente",
+        "fecha": "2024-06-05",
+        "descripcion": "Taller de diseño de interiores para aprender a decorar espacios"
+    },
+    {
+        "nombre": "Feria de tecnología",
+        "tipo": "feria",
+        "status": "revisado",
+        "fecha": "2024-07-20",
+        "descripcion": "Feria de tecnología para mostrar los últimos avances en el mercado"
+    },
+    {
+        "nombre": "Concurso de música",
+        "tipo": "concurso",
+        "status": "pendiente",
+        "fecha": "2024-08-15",
+        "descripcion": "Concurso de música para encontrar el mejor músico"
+    },
+    {
+        "nombre": "Reunión de equipo de marketing",
+        "tipo": "reunion",
+        "status": "revisado",
+        "fecha": "2024-09-10",
+        "descripcion": "Reunión de equipo de marketing para discutir estrategias y objetivos"
+    },
+    {
+        "nombre": "Taller de jardinería",
+        "tipo": "taller",
+        "status": "pendiente",
+        "fecha": "2024-10-05",
+        "descripcion": "Taller de jardinería para aprender a cultivar plantas y flores"
+    },
+    {
+        "nombre": "Capacitación en seguridad informática",
+        "tipo": "capacitacion",
+        "status": "revisado",
+        "fecha": "2024-11-01",
+        "descripcion": "Capacitación para aprender técnicas de seguridad informática"
+    },
+    {
+        "nombre": "Feria de moda",
+        "tipo": "feria",
+        "status": "pendiente",
+        "fecha": "2024-12-15",
+        "descripcion": "Feria de moda para mostrar las últimas tendencias en el mercado"
+    },
+    {
+        "nombre": "Concurso de dibujo",
+        "tipo": "concurso",
+        "status": "revisado",
+        "fecha": "2025-01-10",
+        "descripcion": "Concurso de dibujo para encontrar el mejor artista gráfico"
+    },
+    {
+        "nombre": "Reunión de equipo de finanzas",
+        "tipo": "reunion",
+        "status": "pendiente",
+        "fecha": "2025-02-05",
+        "descripcion": "Reunión de equipo de finanzas para discutir presupuestos y estrategias de inversión"
+    },
+    {
+        "nombre": "Capacitación en programación",
+        "tipo": "capacitacion",
+        "status": "pendiente",
+        "fecha": "2025-03-01",
+        "descripcion": "Capacitación en programación para mejorar habilidades en desarrollo de software"
+    },
+    {
+        "nombre": "Feria de automóviles",
+        "tipo": "feria",
+        "status": "revisado",
+        "fecha": "2025-04-15",
+        "descripcion": "Feria de automóviles para mostrar los últimos modelos y avances en el mercado"
+    },
+    {
+        "nombre": "Concurso de poesía",
+        "tipo": "concurso",
+        "status": "pendiente",
+        "fecha": "2025-05-10",
+        "descripcion": "Concurso de poesía para encontrar el mejor escritor"
+    },
+    {
+        "nombre": "Reunión de equipo de recursos humanos",
+        "tipo": "reunion",
+        "status": "revisado",
+        "fecha": "2025-06-05",
+        "descripcion": "Reunión de equipo de recursos humanos para discutir políticas y estrategias de personal"
+    },
+    {
+        "nombre": "Taller de cocina",
+        "tipo": "taller",
+        "status": "pendiente",
+        "fecha": "2025-07-01",
+        "descripcion": "Taller de cocina para aprender nuevas recetas y técnicas culinarias"
+    },
+    {
+        "nombre": "Capacitación en diseño gráfico",
+        "tipo": "capacitacion",
+        "status": "revisado",
+        "fecha": "2025-08-15",
+        "descripcion": "Capacitación en diseño gráfico para mejorar habilidades en la creación de imágenes y gráficos"
+    },
+    {
+        "nombre": "Feria de electrónica",
+        "tipo": "feria",
+        "status": "pendiente",
+        "fecha": "2025-09-10",
+        "descripcion": "Feria de electrónica para mostrar los últimos avances y productos en el mercado"
+    },
+    {
+        "nombre": "Concurso de baile",
+        "tipo": "concurso",
+        "status": "revisado",
+        "fecha": "2025-10-05",
+        "descripcion": "Concurso de baile para encontrar el mejor bailarín"
+    },
+    {
+        "nombre": "Reunión de equipo de ventas",
+        "tipo": "reunion",
+        "status": "pendiente",
+        "fecha": "2025-11-01",
+        "descripcion": "Reunión de equipo de ventas para discutir estrategias y metas comerciales"
+    },
+    {
+        "nombre": "Taller de jardinería",
+        "tipo": "taller",
+        "status": "revisado",
+        "fecha": "2025-12-15",
+        "descripcion": "Taller de jardinería para aprender sobre el cuidado y crecimiento de plantas"
+    },
+    {
+        "nombre": "Capacitación en marketing digital",
+        "tipo": "capacitacion",
+        "status": "pendiente",
+        "fecha": "2026-01-10",
+        "descripcion": "Capacitación en marketing digital para mejorar habilidades en promoción en línea"
+    },
+    {
+        "nombre": "Feria de moda",
+        "tipo": "feria",
+        "status": "revisado",
+        "fecha": "2026-02-05",
+        "descripcion": "Feria de moda para mostrar las últimas tendencias y productos en el mercado"
+    },
+    {
+        "nombre": "Concurso de canto",
+        "tipo": "concurso",
+        "status": "pendiente",
+        "fecha": "2026-03-01",
+        "descripcion": "Concurso de canto para encontrar el mejor cantante"
+    },
+    {
+        "nombre": "Reunión de equipo de finanzas",
+        "tipo": "reunion",
+        "status": "revisado",
+        "fecha": "2026-04-15",
+        "descripcion": "Reunión de equipo de finanzas para discutir estrategias y metas financieras"
+    },
+    {
+        "nombre": "Taller de artesanía",
+        "tipo": "taller",
+        "status": "pendiente",
+        "fecha": "2026-05-10",
+        "descripcion": "Taller de artesanía para aprender nuevas técnicas y crear productos únicos"
+    },
+    {
+        "nombre": "Capacitación en negocios",
+        "tipo": "capacitacion",
+        "status": "revisado",
+        "fecha": "2026-06-05",
+        "descripcion": "Capacitación en negocios para mejorar habilidades en administración y estrategia comercial"
+    }
+]
