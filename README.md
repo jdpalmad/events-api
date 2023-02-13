@@ -1,9 +1,14 @@
 ## **Esta API busca monitoriar y gestionar eventos**
 *El crud es realizado utilizando FastAPI y SQL*
 Es recomendable crear un entorno virtual para instalar las dependencias y ejecutar el proyecto, de este modo se evita que las dependencias se instalen en el entorno global de python y asi evitar conflictos con otras versiones de las mismas. <br>
+
 ### Requerimientos
-En primer lugar se creamos un ```folder``` para el prooyecto, en adelante, lo llamaremos: ```events-api```. <br>
-Ahora dirijase al folder creado ```events-api``` y cree un entorno virtual.
+
+Para comenzar, clonamos el repositorio:
+> ```bash git clone https://github.com/jdpalmad/events-api.git ```   <br> <br> 
+Una vez clonado, nos dirigimos al folder del proyecto:
+> ```bash cd events-api ```   <br> <br>
+> 
 Para crear un entorno virtual con la version de Python 3.10.9, ejecute el siguiente comando:
 > ```bash conda create -n envname python=3.10.9 ```   <br> <br>
 En este caso lo hacemos con conda 22.0.9, pero puede usar virtualenv o venv. <br>
@@ -44,4 +49,10 @@ De esta manera, el servidor se iniciara en la direccion: ```http://localhost:800
 ### Cargando los datos de prueba
 Para cargar los datos de prueba, ejecute el siguiente comando, en el folder ```events-api/utilities```:
 > ```bash python loadstatic.py ```   <br> 
+
+# Interactuando con la API
+Una vez que la API esta corriendo, usamos el endpont ```/``` para ingresar a la documentacion de la API, donde encontrara la informacion correspondiente a los endpoints. <br>
+
+
+#### **Elaborado por: jdpalmad** 
 
