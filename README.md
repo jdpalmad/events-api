@@ -53,6 +53,5 @@ Para cargar los datos de prueba, ejecute el siguiente comando, en el folder ```e
 # Interactuando con la API
 Una vez que la API esta corriendo, usamos el endpont ```/``` para ingresar a la documentacion de la API, donde encontrara la informacion correspondiente a los endpoints. <br>
 
-
 #### **Elaborado por: jdpalmad** 
 
