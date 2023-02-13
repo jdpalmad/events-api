@@ -1,14 +1,9 @@
 from sqlalchemy import create_engine, MetaData
-
+from dotenv import dotenv_values
 # Configuracion de la conexion a la base de datos
-# Valores de ejemplo, cambiar por los valores de su base de datos
-user = "root"
-sql_password = "sqlpw123"
-database = "eventsdb"
-host = "localhost"
-port = "3306"
 
-engine = create_engine(f"mysql+pymysql://"+user+":"+sql_password+"@"+host+":"+port+"/"+database)
+db_config = dotenv_values(".env")
+engine = create_engine(f"mysql+pymysql://"+db_config['USER']+":"+db_config['SQL_PASSWORD']+"@"+db_config['HOST']+":"+db_config['PORT']+"/"+db_config['DATABASE'])
 
 meta = MetaData()
 conn = engine.connect()
