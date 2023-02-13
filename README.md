@@ -7,11 +7,11 @@ Es recomendable crear un entorno virtual para instalar las dependencias y ejecut
 ### Requerimientos
 
 Para comenzar, clonamos el repositorio:<br>
-```sh 
-   git clone https://github.com/jdpalmad/events-api.git <br>
+```console 
+git clone https://github.com/jdpalmad/events-api.git 
 ```  
 Una vez clonado, nos dirigimos al folder del proyecto:<br>
-```sh 
+```console 
 cd events-api 
 ```   
 
@@ -46,7 +46,7 @@ Finalmente cree una base de datos, esto se hace con el siguiente comando:<br>
 Para que la API funcione correctamente, debe ingresar en el folder ```events-api/``` y configurar las variables de entorno. <br>
 Para esto creamos un archivo ```.env``` y agregamos las siguientes variables de entorno: <br>
 Estas son: <br>
-```sh
+```console
 USER = "USER"
 SQL_PASSWORD = "SQL_PASSWORD" 
 DATABASE = "DATABASE" 
