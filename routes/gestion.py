@@ -6,6 +6,7 @@ from schemas.gestion import gestionEvent
 from schemas.event import Event
 from utilities.gestion import *
 
+# Creamos el router para gestion
 gestion = APIRouter()
 
 @gestion.get("/events/gestion", response_model=list[gestionEvent], description="""Obtenga el estado de gestion
@@ -13,6 +14,7 @@ gestion = APIRouter()
 def get_gestion_events():
     # Obtenga una lista de todos los 
     # eventos activos y su estado de gestion
+    # vea mas en utilities/gestion.py
     return conn.execute(MostrarGestionActivos).mappings().all()
 
 
@@ -24,8 +26,10 @@ def get_gestion_status_by_id(id:int):
     event = conn.execute(events.select().where(events.c.id == id)).mappings().first()
     if event:
         gestion_status(id)
+        # Devuelve el estado de gestion del evento, vea mas en utilities/gestion.py
         return conn.execute(gestion.select().where(gestion.c.event_id == id)).mappings().first()
     else:
+        # Si el evento no existe, lance una excepción
         raise HTTPException(status_code=404, detail="El evento no existe")
 
 @gestion.get("/gestion/{clause}", response_model=list[Event], description="""Obtenga el estado de
@@ -37,3 +41,4 @@ def check_gestion(clause:bool):
         return conn.execute(MostrarEventosRequiereGestion).mappings().all()
     elif clause == False:
         return conn.execute(MostrarEventosNoRequiereGestion).mappings().all()
+    # Vea mas en utilities/gestion.py
