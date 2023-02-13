@@ -2,7 +2,7 @@
 *El crud es realizado utilizando FastAPI y SQL*
 Es recomendable crear un entorno virtual para instalar las dependencias y ejecutar el proyecto, de este modo se evita que las dependencias se instalen en el entorno global de python y asi evitar conflictos con otras versiones de las mismas. <br>
 
-##### *Los comandos etiquetados con ```console``` son validos para bash, zsh, etc... ignore la etiqueta ```console```*
+## Instalacion
 
 ### Requerimientos
 
@@ -17,12 +17,18 @@ cd events-api
 
 
 Para crear un entorno virtual con la version de Python 3.10.9, ejecute el siguiente comando:<br>
-> ```console conda create -n envname python=3.10.9 ```   <br> <br>
+```console 
+conda create -n envname python=3.10.9 
+```   
 En este caso lo hacemos con conda 22.0.9, pero puede usar virtualenv o venv. <br>
 Una vez creado el entorno virtual, active el mismo con el siguiente comando:<br>
-> ```console conda activate envname ```   <br> <br>
+```console 
+conda activate envname 
+```  
 Ahora instale las dependencias del proyecto, para ello ejecute el siguiente comando:<br>
-> ```console pip install -r requirements.txt ```   <br> 
+```console 
+pip install -r requirements.txt 
+```   
 
 ### Base de datos
 Dado que la API utiliza una base de datos SQL, debe crear una base de datos en su servidor local. <br>
@@ -50,7 +56,9 @@ PORT = "PORT"
 
 ### Ejecutar el proyecto
 De nuevo en el folder ```events-api``` ejecute el siguiente comando para iniciar el servidor:<br>
-> ```console uvicorn main:app --reload ```   <br> <br>
+```console 
+ uvicorn main:app --reload 
+```  
 De esta manera, el servidor se iniciara en la direccion: ```http://localhost:8000/``` <br>
 
 ## **Puede ver la documentacion de la API en la siguiente direccion:** <br> 
@@ -58,7 +66,9 @@ De esta manera, el servidor se iniciara en la direccion: ```http://localhost:800
 
 ### Cargando los datos de prueba
 Para cargar los datos de prueba, ejecute el siguiente comando, en el folder ```events-api/utilities```: <br>
-> ```console python loadstatic.py ```   <br> 
+ ```console 
+ python loadstatic.py 
+```   
 
 # Interactuando con la API
 Una vez que la API esta corriendo, usamos el endpont ```/``` para ingresar a la documentacion de la API, donde encontrara la informacion correspondiente a los endpoints. <br>
