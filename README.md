@@ -76,6 +76,6 @@ Una vez que la API esta corriendo, usamos el endpont ```/``` para ingresar a la 
 
 #### **Elaborado por: jdpalmad** <br><br>
 
-*Tambien puede revisar el codigo para ver como se implemento la API. y que tipo de pull requests se aceptaran: (Principios SOLID, Conexion algo dependiente de conn y la forma en la que se establece la conexion con la base de datos)* <br>
+*Tambien puede revisar el codigo para ver como se implemento la API. y que tipo de pull requests se aceptaran: (Principios SOLID, Conexion algo dependiente de conn y SQLAlchemy, Agregar Autenticacion para los Metodos de Config.)* <br>
 
 
