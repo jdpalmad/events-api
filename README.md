@@ -62,7 +62,8 @@ De nuevo en el folder ```events-api``` ejecute el siguiente comando para iniciar
 De esta manera, el servidor se iniciara en la direccion: ```http://localhost:8000/``` <br>
 
 ## **Puede ver la documentacion de la API en la siguiente direccion:** <br> 
-```http://localhost:8000/``` o ```http://localhost:8000/redoc``` <br>
+Lo invitamos a que ingrese a: ```http://localhost:8000/``` en donde encontrara parte de la documentacion de la API y podra interactuar con los HTTP Methods. <br>
+Ademas, encontrara la documentacion completa en: ```http://localhost:8000/docs``` <br>
 
 ### Cargando los datos de prueba
 Para cargar los datos de prueba, ejecute el siguiente comando, en el folder ```events-api/utilities```: <br>
