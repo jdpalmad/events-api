@@ -9,7 +9,7 @@ descripcion = "API para la gestión de eventos 🚀 <br> \n\n ## EVENTS API \n R
 # Inicialización de la API
 app = FastAPI(
     title="API Eventos",
-    description="# **Bienvenido a la API de eventos** 🚀 \n Lo invitamos a que se dirija al enlace habilitado ```localhost:8000/docs``` para informarse mas acerca de la API \n A continuacion encontrara los metodos implementados y podra interactuar con ellos asi como obtener informacion basica de ellos. ",
+    description="# **Bienvenido a la API de eventos** 🚀 \n Lo invitamos a que se dirija al enlace habilitado ```localhost:8000/docs``` para informarse mas acerca de la API \n A continuacion encontrara los metodos implementados y podra interactuar con ellos asi como obtener informacion basica y ejemplos pertienentes para su interaccion. ",
     version="0.1.0",
     docs_url="/",
     tags_metadata = { 
