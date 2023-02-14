@@ -74,5 +74,8 @@ Para cargar los datos de prueba, ejecute el siguiente comando, en el folder ```e
 # Interactuando con la API
 Una vez que la API esta corriendo, usamos el endpont ```/``` para ingresar a la documentacion de la API, donde encontrara la informacion correspondiente a los endpoints. <br>
 
+
+*Finalmente puede revisar el codigo para ver como se implemento la API. y que tipo de pull requests se aceptaran: (Principios SOLID, Conexion algo dependiente de conn y la forma en la que se establece la conexion con la base de datos)* <br>
+
 #### **Elaborado por: jdpalmad** 
 
